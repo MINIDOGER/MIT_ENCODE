@@ -1,0 +1,8 @@
+../Core/Src/AS5048A.c:38:10:SPI_AS5048A_ReadData	1
+../Core/Src/AS5048A.c:55:10:SPI_AS5048A_Relative_ReadData	2
+../Core/Src/AS5048A.c:75:10:Angle_Process	2
+../Core/Src/AS5048A.c:88:6:SPI_AS5048A_Origin_Value	1
+../Core/Src/AS5048A.c:104:10:SPI_AS5048A_Algorithm_ReadData	2
+../Core/Src/AS5048A.c:139:7:Angle_Circle	1
+../Core/Src/AS5048A.c:148:7:Angle_absolute	2
+../Core/Src/AS5048A.c:164:10:Return_Value	1
